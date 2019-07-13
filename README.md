@@ -1,2 +1,2 @@
 # Forkify
-An Food Searching Website
+An Foody Website
